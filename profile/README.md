@@ -12,7 +12,7 @@ Welcome to **Einhorn Farm** — a cozy open-source organization where cloud-nati
 |---|---|
 | ☁️ Cloud Native | AWS, Kubernetes, OpenShift, Hetzner |
 | ⚙️ GitOps / Automation | ArgoCD, GitHub Actions, CI/CD, Ansible |
-| 🏠 Home Lab | Home Assistant, networking, self-hosting, Unifi, Rasberry Pi |
+| 🏠 Home Lab | Home Assistant, self-hosting, Unifi networking, Rasberry Pi |
 | 🔐 Security | YubiKey, SOPS|
 
 ---
@@ -20,9 +20,10 @@ Welcome to **Einhorn Farm** — a cozy open-source organization where cloud-nati
 ## ✨ Values
 
 - **Open Source first** — fork it, improve it, share it
-- **Automation over manual toil** — if you do it twice, automate it
-- **Quality over quantity** — thoughtfully crafted, well-documented
-- **Cloud native by default** — containers, GitOps, infrastructure as code
+- **Automation over manual toil** - if you do it twice, automate it
+- **Quality over quantity** - thoughtfully crafted, well-documented
+- **Cloud native by default** - containers, GitOps, infrastructure as code
+- **Don't make unicorns cry** - Be excelent to each other.
 
 ---
 
