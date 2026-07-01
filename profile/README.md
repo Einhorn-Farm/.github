@@ -2,7 +2,7 @@
 
 > *Where magical code roams free*
 
-Welcome to **Einhorn Farm** — a cozy open-source organization where cloud-native tools graze, Kubernetes experiments run wild, and every commit sparks a little magic.
+Welcome to **Einhorn Farm** — a cozy space where cloud-native tools graze, Kubernetes experiments run wild, and every commit sparks a little magic.
 
 ---
 
